@@ -1,4 +1,15 @@
 {
+    "name": "illuminate/support",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wvanbreukelen",
+            "email": "ikwillerenprogrammeren@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
     "require-dev": {
         "symfony/http-foundation": "dev-master"
     }
