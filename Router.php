@@ -112,7 +112,7 @@ class Router
 		return $route;
 	}
 
-	protected function createRoute($methods, $uri. $actions)
+	protected function createRoute($methods, $uri, $actions)
 	{
 		return new Route($methods, $uri, $action);
 	}
